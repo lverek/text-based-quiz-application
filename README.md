@@ -33,4 +33,3 @@ Class Initialization: The Quiz class initializes with an empty list of questions
 Adding Questions: The add_question method allows adding questions and their corresponding answers to the quiz.
 Starting the Quiz: The start method runs through all the questions, prompts the user for an answer, checks if it's correct, updates the score, and provides feedback.
 Main Program: The if __name__ == "__main__": block creates an instance of the Quiz class, adds some questions, and starts the quiz.
-135
